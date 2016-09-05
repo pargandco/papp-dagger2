@@ -3,7 +3,7 @@
     <color name="colorPrimary">#455A64</color>
     <color name="colorPrimaryDark">#263238</color>
     <color name="colorAccent">#607D8B</color>
-    <color name="logon_box">#607D8B</color>
+    <color name="colorLogonBox">#F3F6F9</color>
     <color name="button_pressed">#78909C</color>
     <color name="button_focused">#607D8B</color>
     <color name="button_border">#607D8B</color>
